@@ -11,7 +11,7 @@ import com.vaadin.ui.TextField;
 import com.vaadin.ui.UI;
 import com.vaadin.ui.VerticalLayout;
 
-//This is a test comment
+//This is a test comment.
 
 /**
  * This UI is the application entry point. A UI may either represent a browser window 
